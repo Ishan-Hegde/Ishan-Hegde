@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hegdeishan10@gmail.com**
 
-- ⚡ Fun fact **Professional Footballer at Young Guns Football Club**
+- ⚡ Fun fact **Semi-Professional Footballer at Young Guns Football Club**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
