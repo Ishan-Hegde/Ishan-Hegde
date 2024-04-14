@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishan-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="ishan-hegde" /> </p>
 
-- 🔭 I’m currently working on [CRCE Connex Flutter App]([https://github.com/Ishan-Hegde/BI_Portfolio](https://github.com/Ishan-Hegde/CRCE_Connex))
+- 🔭 I’m currently working on **VoxAura**
 
 - 🌱 I’m currently learning **React**
 
