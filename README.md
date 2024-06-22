@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishan-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="ishan-hegde" /> </p>
 
-- 🔭 I’m currently working on **VoxAura**
+- 🔭 I’m currently working on **Green Table**
 
 - 🌱 I’m currently learning **React**
 
